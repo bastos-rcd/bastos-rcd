@@ -1,3 +1,7 @@
+<h1 align="center">
+  <img src="https://github.com/zenox31470/zenox31470/blob/99fd8e804581aff31e6838e2c8ca93bc5244127d/img/name.svg"/>
+</h1>
+
 ## Hi there 👋
 
 <!--
