@@ -13,4 +13,4 @@
 
 - `🌱` I am currently in a Bachelor’s degree in Computer Science
 - `📫` Contact me : **record.bastien@gmail.com**
-- `📄` My Portfolio : [bastien-record](https://bastien-record.pages.dev/)
+- `📄` My Portfolio : [bastien-record](https://bastien-record.web.app/)
